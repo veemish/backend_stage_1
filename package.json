@@ -1,24 +1,18 @@
 {
-  "slack_name": "Vee",
+  "name": "tiny-api",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000_\u0000s\u0000t\u0000a\u0000g\u0000e\u0000_\u00001\u0000\r\u0000 \u0000",
+  "description": "This is a very tiny API, just for learning purposes",
   "main": "index.js",
-  "current_day" : "Saturday",
-  "utc_time":"2023-09-09",
-  "track":"backend",
-  "github_file":"https://github.com/veemish/backend_stage_1/blob/main/file_name.ext",
-  "github_repo_url":"https://github.com/veemish/backend_stage_1T09:15",
-  "status_code":200,
   "scripts": {
-    "test": "echo \"Error:no test specified\"&& exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/veemish/backend_stage_1.git"
   },
   "keywords": [
-    "backend track",
-    "backend"
+    "backend",
+    "backend track"
   ],
   "author": "vee",
   "license": "ISC",

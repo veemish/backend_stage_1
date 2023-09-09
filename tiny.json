@@ -1,0 +1,12 @@
+{ 
+    "Chapterone":{
+        "slack_name": "Vee",
+        "current_day": "Saturday",
+        "utc_time": "2023-09-09T09:45:00",
+        "track": "backend",
+        "github_file_url": "https://github.com/veemish/backend_stage_1/blob/main/file_name.ext",
+        "github_repo_url": "https://github.com/veemish/backend_stage_1",
+        "status_code": 200
+    }
+    
+}
